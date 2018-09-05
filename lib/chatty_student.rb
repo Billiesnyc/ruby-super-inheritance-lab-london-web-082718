@@ -16,6 +16,6 @@ class ChattyStudent < Student
     Pick me!\n 
     Pick me!\n 
     Pick me!\n 
-    Pick me!\n"
+    Pick me!"
   end
 end
